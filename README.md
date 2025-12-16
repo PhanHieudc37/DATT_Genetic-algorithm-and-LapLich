@@ -1,3 +1,4 @@
+Hiện tại dự án đang phát triển thêm phần code ứng dụng 💖
 # Hệ Thống Xếp Thời Khóa Biểu Sử Dụng Thuật Toán Di Truyền
 
 ## Tổng Quan Dự Án
