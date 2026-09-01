@@ -1,0 +1,29 @@
+[
+  {
+    "scenario": "Nhỏ: 5 lớp, 10 phòng, 5 GV",
+    "num_classes": 5,
+    "time": 0.03235650062561035,
+    "generations": 1,
+    "initial_fitness": 1.0,
+    "final_fitness": 1.0,
+    "improvement": 0.0
+  },
+  {
+    "scenario": "Trung bình: 20 lớp, 15 phòng, 10 GV",
+    "num_classes": 20,
+    "time": 1.5833702087402344,
+    "generations": 26,
+    "initial_fitness": 0.058823529411764705,
+    "final_fitness": 1.0,
+    "improvement": 0.9411764705882353
+  },
+  {
+    "scenario": "Lớn: 50 lớp, 25 phòng, 20 GV",
+    "num_classes": 50,
+    "time": 12.299894094467163,
+    "generations": 50,
+    "initial_fitness": 0.010101010101010102,
+    "final_fitness": 0.01652892561983471,
+    "improvement": 0.006427915518824609
+  }
+]

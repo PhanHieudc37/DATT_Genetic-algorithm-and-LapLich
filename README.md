@@ -1,4 +1,3 @@
-# Hiện tại dự án đang phát triển cho trường Đại Học 
 # Hệ Thống Xếp Thời Khóa Biểu Sử Dụng Thuật Toán Di Truyền
 
 ## Tổng Quan Dự Án
@@ -12,11 +11,11 @@ Dự án này là một hệ thống quản lý và tối ưu hóa thời khóa 
 - Cung cấp giao diện thân thiện cho các vai trò khác nhau trong trường
 
 ### Đặc Điểm Nổi Bật
--  **Thuật toán di truyền tiên tiến**: Tối ưu hóa thời khóa biểu với hàm fitness đa tiêu chí
--  **Xử lý ràng buộc thông minh**: Tự động giải quyết xung đột phòng học, giảng viên
--  **Đa vai trò người dùng**: Hỗ trợ Trưởng bộ môn, Giáo vụ, Trưởng khoa, Giảng viên
--  **Theo dõi hiệu suất**: Biểu đồ fitness, thống kê thế hệ
--  **Tối ưu hóa liên tục**: Adaptive restart, elitism
+- 🧬 **Thuật toán di truyền tiên tiến**: Tối ưu hóa thời khóa biểu với hàm fitness đa tiêu chí
+- 🎯 **Xử lý ràng buộc thông minh**: Tự động giải quyết xung đột phòng học, giảng viên
+- 👥 **Đa vai trò người dùng**: Hỗ trợ Trưởng bộ môn, Giáo vụ, Trưởng khoa, Giảng viên
+- 📊 **Theo dõi hiệu suất**: Biểu đồ fitness, thống kê thế hệ
+- 🔄 **Tối ưu hóa liên tục**: Adaptive restart, elitism
 
 ## Công Nghệ Sử Dụng
 
@@ -94,7 +93,6 @@ Dự án này là một hệ thống quản lý và tối ưu hóa thời khóa 
    - Frontend: http://localhost:5173
    - Backend API: http://localhost:8000
    - API Documentation: http://localhost:8000/docs
-   đã có ở trên miền rồi nhé 
 
 ### Chạy Thủ Công
 
@@ -223,8 +221,19 @@ Thuật toán mô phỏng quá trình tiến hóa tự nhiên để tìm thời 
 - Toast notification và loading states
 - Responsive design
 
-## Hướng Phát Triển
+## Hạn Chế và Hướng Phát Triển
 
+### Hạn Chế Hiện Tại
+- Chỉ hỗ trợ SQLite (không phù hợp production lớn)
+- Chưa có tính năng backup/restore
+- Thuật toán chưa song song hóa
+
+### Hướng Phát Triển
+- Hỗ trợ PostgreSQL/MySQL
+- Cải tiến thuật toán với GPU computing
+- Thêm tính năng export Excel/PDF
+- Mobile app
+- Multi-campus support
 
 ## Đóng Góp
 
@@ -236,7 +245,7 @@ Dự án này sử dụng MIT License - xem file [LICENSE](LICENSE) để biết
 
 ---
 
-**Tác giả**: Phan Văn Hiếu
-**Trường**: Đại Học Xây dựng Hà Nôi
+**Tác giả**: [Tên sinh viên]  
+**Trường**: [Tên trường]  
 **Ngành**: Công nghệ thông tin  
-**Năm**: 2025
+**Năm**: 2024
