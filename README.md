@@ -1,3 +1,4 @@
+# Hiện tại dự án đang phát triển cho các trường Đại Học 
 # Hệ Thống Xếp Thời Khóa Biểu Sử Dụng Thuật Toán Di Truyền
 
 ## Tổng Quan Dự Án
@@ -245,7 +246,7 @@ Dự án này sử dụng MIT License - xem file [LICENSE](LICENSE) để biết
 
 ---
 
-**Tác giả**: [Tên sinh viên]  
-**Trường**: [Tên trường]  
-**Ngành**: Công nghệ thông tin  
-**Năm**: 2024
+**Tác giả**: [Phan Văn Hiếu]  
+**Trường**: [Đại Học Xây dựng Hà Nội]  
+**Ngành**: Khoa học máy tính
+**Năm**: 2025
