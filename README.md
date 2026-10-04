@@ -247,6 +247,5 @@ Dự án này sử dụng MIT License - xem file [LICENSE](LICENSE) để biết
 ---
 
 **Tác giả**: [Phan Văn Hiếu]  
-**Trường**: [Đại Học Xây dựng Hà Nội]  
 **Ngành**: Khoa học máy tính
 **Năm**: 2025
